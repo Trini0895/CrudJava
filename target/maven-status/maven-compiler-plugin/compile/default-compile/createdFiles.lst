@@ -1,0 +1,12 @@
+modelo\persistencia\exceptions\NonexistentEntityException.class
+modelo\dao\ProfesorDao.class
+modelo\persistencia\ProfesorJpaController.class
+controlador\SvAltas.class
+modelo\dao\ProfesorDaoImpl.class
+com\mycompany\tp\resources\JakartaEE10Resource.class
+com\mycompany\tp\JakartaRestConfiguration.class
+modelo\dao\Crud.class
+modelo\persistencia\exceptions\PreexistingEntityException.class
+modelo\Profesor.class
+modelo\persistencia\exceptions\IllegalOrphanException.class
+modelo\persistencia\ControladoraPersistencia.class
